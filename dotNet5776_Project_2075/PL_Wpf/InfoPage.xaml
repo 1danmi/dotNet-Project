@@ -1,0 +1,56 @@
+﻿<Page x:Class="PL_Wpf.InfoPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="InfoPage">
+
+    <Grid Background="White">
+        <Rectangle x:Name="HeaderRectangle" Fill="#9E9E9E" Style="{StaticResource RectangleHeaderStyle}"/>
+        <Button x:Name="BackButton" Background="Black" Command="{x:Static NavigationCommands.BrowseBack}" Content="Back" Style="{StaticResource ResizeStyle}"/>
+        <Label Content="Info" Style="{StaticResource TitleStyle}" Margin="50,35,0,0"/>
+        <DataGrid x:Name="BranchesListBox" Visibility="Hidden" Margin="400,285,50,50" BorderBrush="Black" BorderThickness="1" AutoGenerateColumns="False" d:DataContext="{d:DesignInstance Type=BE:Branch}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding BranchID}" Header="ID" Width="*" />
+                <DataGridTextColumn Binding="{Binding Name}" Header="Name" Width="*" />
+                <DataGridTextColumn Binding="{Binding Add}" Header="Address" Width="*" />
+                <DataGridTextColumn Binding="{Binding PhoneNumber}" Header="Phone Number" Width="*" />
+                <DataGridTextColumn Binding="{Binding ManagerName}" Header="Manager Name" Width="*" />
+                <DataGridTextColumn Binding="{Binding Kosher}" Header="Kashrut Name" Width="*" />
+            </DataGrid.Columns>
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Branches_Row_DoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <DataGrid x:Name="ClientsListBox" Visibility="Hidden" AutoGenerateColumns="False" Margin="400,285,50,50" BorderBrush="Black" BorderThickness="1" d:DataContext="{d:DesignInstance Type=BE:Client}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding ClientID, Mode=OneTime}" Header="ID"  />
+                <DataGridTextColumn Binding="{Binding Name}" Header="Name"  />
+                <DataGridTextColumn Binding="{Binding Add}" Header="Address"/>
+                <DataGridTextColumn Binding="{Binding Location}" Header="Shipping Address"  />
+                <DataGridTextColumn Binding="{Binding PhoneNumber}" Header="Phone Number" />
+                <DataGridTextColumn Binding="{Binding strBD}" Header="Birth Date"  />
+            </DataGrid.Columns>
+        </DataGrid>
+        <DataGrid x:Name="OrdersListBox" Visibility="Hidden" AutoGenerateColumns="False" Margin="400,285,50,50" BorderBrush="Black" BorderThickness="1" d:DataContext="{d:DesignInstance Type=BE:Order}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding OrderID, Mode=OneTime}" Header="ID"  />
+                <DataGridTextColumn Binding="{Binding BranchID,Converter={StaticResource BranchIDToBranchNameConverter}}" Header="Branch Name"  />
+                <DataGridTextColumn Binding="{Binding ClientID, Converter={StaticResource ClientIDToClientNameConverter}}" Header="Client Name"/>
+                <DataGridTextColumn Binding="{Binding Kosher}" Header="Kashrut"  />
+                <DataGridTextColumn Binding="{Binding PaymentType}" Header="Payment Type" />
+                <DataGridCheckBoxColumn Binding="{Binding Delivery}" Header="Delivery"  />
+                <DataGridTextColumn Binding="{Binding Notes}" Header="Notes"/>
+            </DataGrid.Columns>
+        </DataGrid>
+        <Button x:Name="BranchesButton" Style="{StaticResource CleanButtonStyle}" Content="Branches" Width="256" HorizontalAlignment="Left" Margin="60,304,0,336" Click="BranchesButton_Click"/>
+        <Button x:Name="ClientsButton" Style="{StaticResource CleanButtonStyle}" Content="Clients" Width="256" HorizontalAlignment="Left" Margin="60,0,0,201" Height="80" VerticalAlignment="Bottom" Click="ClientsButton_Click"/>
+        <Button x:Name="OrdersButton" Style="{StaticResource CleanButtonStyle}" Content="Orders" Width="256" HorizontalAlignment="Left" Margin="60,0,0,70" Height="80" VerticalAlignment="Bottom" Click="OrdersButton_Click"/>
+    </Grid>
+</Page>

@@ -1,0 +1,393 @@
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe.config
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\System.Windows.Interactivity.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.cache
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.lref
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.g.resources
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.Properties.Resources.resources
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csproj.GenerateResource.Cache
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.exe
+D:\OneDrive\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe.config
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.exe
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Interactions.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\System.Windows.Interactivity.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csprojResolveAssemblyReference.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.lref
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.g.resources
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.Properties.Resources.resources
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe.config
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.exe
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\PL_Wpf.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Interactions.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Microsoft.Expression.Prototyping.Interactivity.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\System.Windows.Interactivity.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BE.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\BL.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\WpfPageTransitions.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DAL.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\DS.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Interactions.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\Microsoft.Expression.Prototyping.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\en\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ja\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ko\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hant\System.Windows.Interactivity.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf_MarkupCompile.lref
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\App.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddBranchPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishesToOrderPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddDishPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\AddOrderPage2.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\BranchRevenueUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CityRevenueUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\CreditCardUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishListPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishRevenueUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\DishUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\GetOrderIDWindow.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\InfoPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MainWindow.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ManagementUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\MenuWindow.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\NewClientPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\OrdersUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\QueriesPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\ReportsPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\RevenuePerMonthUserControl.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateBranchPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateClientPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDeletePage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateDishPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\UpdateOrderPage.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\WaitWindow.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.g.resources
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.Properties.Resources.resources
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.exe
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\PL_Wpf.pdb

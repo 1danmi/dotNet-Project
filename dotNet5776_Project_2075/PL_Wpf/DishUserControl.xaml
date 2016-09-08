@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="PL_Wpf.DishUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL_Wpf"
+                xmlns:BE="clr-namespace:BE;assembly=BE"
+             mc:Ignorable="d" 
+             d:DesignHeight="380" d:DesignWidth="217">
+    <Grid x:Name="MainGrid" Background="White" d:DataContext="{d:DesignInstance Type=BE:Dish}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="4*"/>
+            <RowDefinition Height="3*"/>
+        </Grid.RowDefinitions>
+        <Border Height="217" Width="217" BorderBrush="Black" BorderThickness="0" >
+            <Image x:Name="image" Source="{Binding ImageSource, Mode=OneTime,Converter={StaticResource ImageConverter}}" Margin="0,0,0,0" Stretch="Fill"  />
+        </Border>
+        <Label x:Name="NameLebel" Content="{Binding Name, Mode=OneTime}" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="14.222,9.999,0,0" Grid.Row="1" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment"/>
+        <TextBlock x:Name="DescriptionTextBlock" Text="{Binding Description}" Margin="20,53.252,20,55.117" Grid.Row="1" TextWrapping="Wrap" FontFamily="Segoe UI Light" FontSize="14"/>
+        <Label x:Name="PriceLabel"  Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Height="auto" FontFamily="Segoe WP SemiLight" Margin="15.347,0,0,24.117" Grid.Row="1" VerticalAlignment="Bottom" FontSize="12">
+            <ContentControl ContentStringFormat="Price: {0}">
+                <Binding Path="Price" Mode="OneTime"/>
+            </ContentControl>
+        </Label>
+        <Label x:Name="SizeLabel"  Style="{StaticResource LabelStyle}"  FontFamily="Segoe WP SemiLight" Margin="0,0,41.082,24.117" Grid.Row="1" VerticalAlignment="Bottom" FontSize="12" HorizontalAlignment="Right">
+            <ContentControl ContentStringFormat="Size: {0}">
+                <Binding Path="Size" Mode="OneTime"/>
+            </ContentControl>
+        </Label>
+    </Grid>
+</UserControl>

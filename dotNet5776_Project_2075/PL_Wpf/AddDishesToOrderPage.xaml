@@ -1,0 +1,56 @@
+﻿<Page x:Class="PL_Wpf.AddDishesToOrderPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="AddDishesToOrderPage" >
+
+    <Grid x:Name="MainGrid" Background="White" Focusable="True"  d:DataContext="{d:DesignInstance Type=BE:Ordered_Dish}">
+        <Rectangle x:Name="HeaderRectangle" Fill="#FFC107" Style="{StaticResource RectangleHeaderStyle}"/>
+        <Label x:Name="TitleLabel" Style="{StaticResource TitleStyle}" Content="Add Dishes" HorizontalAlignment="Left" Margin="50,35,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="OrderIDLabel1" Style="{StaticResource LabelStyle}" FontSize="25" HorizontalAlignment="Left" Foreground="White" VerticalAlignment="Top" Margin="55,125,0,0" >
+            <ContentControl ContentStringFormat="OrderID: {0}" d:IsLocked="True">
+                <Binding Path="OrderID" Mode="TwoWay"  />
+            </ContentControl>
+        </Label>
+        <Label x:Name="KashrutLabel1" Style="{StaticResource LabelStyle}" FontSize="25" HorizontalAlignment="Left" Foreground="White" VerticalAlignment="Top" Margin="218,125,0,0" >
+            <ContentControl ContentStringFormat="Kashrut: {0}" d:IsLocked="True">
+                <Binding Path="OrderID"  Mode="TwoWay" Converter="{StaticResource OrderIDToKosherConverter}"/>
+            </ContentControl>
+        </Label>
+        <Button x:Name="EndButton" Background="#FF9800" Content="Finish"   Style="{StaticResource ResizeStyle}"  Click="EndButton_Click" />
+
+
+        <DataGrid x:Name="DishDataGrid"  Margin="70,294.053,0,143.17" IsReadOnly="True" HorizontalAlignment="Left" Width="570" >
+            <DataGrid.Resources>
+                <Style TargetType="DataGridRow">
+                    <EventSetter Event="MouseDoubleClick" Handler="Row_DoubleClick"/>
+                </Style>
+            </DataGrid.Resources>
+        </DataGrid>
+        <DataGrid x:Name="OrderedDishDataGrid"  Margin="0,294.052,50,143.172" IsReadOnly="True" HorizontalAlignment="Right" Width="570" SourceUpdated="OrderedDishDataGrid_SourceUpdated" AutoGenerateColumns="False" d:DataContext="{d:DesignInstance Type=BE:Ordered_Dish}">
+            <DataGrid.Columns>
+                <DataGridTextColumn Binding="{Binding OrderID}" Header="Order ID" Width="*"/>
+                <DataGridTextColumn Binding="{Binding DishID, Converter={StaticResource DishIDToDishNameConverter}}" Header="Dish" Width="*"/>
+                <DataGridTextColumn Binding="{Binding Amount}" Header="Amount" Width="*"/>
+                <DataGridTemplateColumn  Header="Remove" Width="*" >
+                    <DataGridTemplateColumn.CellTemplate>
+                        <DataTemplate>
+                            <Button x:Name="RemoveButton" Content="Remove Dish" Click="RemoveButton_Click" />
+                        </DataTemplate>
+                    </DataGridTemplateColumn.CellTemplate>
+                </DataGridTemplateColumn>
+            </DataGrid.Columns>
+        </DataGrid>
+            <Button x:Name="BackButton" FontSize="40" Content="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="177.233" Click="BackButton_Click"/>
+        <Label x:Name="TotalPriceLabel" Content="Total Price:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Right" Margin="0,245.798,499.12,0" VerticalAlignment="Top" RenderTransformOrigin="0.437,2.554"/>
+        <Label x:Name="PriceLabel" Content="{Binding OrderID, Converter={StaticResource OrderIDToTotalPriceConverter}}" Style="{StaticResource LabelStyle}" VerticalAlignment="Top" Margin="0,245.798,379.691,0" HorizontalAlignment="Right" Width="119.429"  />
+        <ComboBox Background="White" x:Name="DishTypeComboBox" Style="{StaticResource ComboBoxStyle}" HorizontalAlignment="Left" Margin="184.24,249.798,0,0" VerticalAlignment="Top" Width="187.5" SelectionChanged="DishTypeComboBox_SelectionChanged"/>
+        <Label x:Name="DishTypeLabel" Content="DishType:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left"  Margin="70,245.798,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="ShowAllButton" Content="Show All" Style="{StaticResource CleanButtonStyle}" HorizontalAlignment="Left" FontSize="25" Margin="393.667,249.798,0,0" VerticalAlignment="Top" Width="153.333" Click="ShowAllButton_Click"/>
+    </Grid>
+</Page>

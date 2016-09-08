@@ -1,0 +1,74 @@
+<?xml version="1.0"?>
+<ArrayOfClient xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Client>
+    <ClientID>0</ClientID>
+    <Name>Jack Sparrow</Name>
+    <Add>
+      <Street>Arlozerov</Street>
+      <HouseNO>85</HouseNO>
+      <City>Yehud_Monosson</City>
+      <ZipCode>5465168</ZipCode>
+    </Add>
+    <PhoneNumber>615518685</PhoneNumber>
+    <Delivery>false</Delivery>
+    <BirthDate>1997-08-19T00:00:00</BirthDate>
+  </Client>
+  <Client>
+    <ClientID>1</ClientID>
+    <Name>Moshe Maman</Name>
+    <Add>
+      <Street>HaRambam</Street>
+      <HouseNO>18</HouseNO>
+      <City>Tiberias</City>
+      <ZipCode>1111111</ZipCode>
+    </Add>
+    <PhoneNumber>123456789</PhoneNumber>
+    <Delivery>false</Delivery>
+    <BirthDate>1934-07-05T00:00:00</BirthDate>
+  </Client>
+  <Client>
+    <ClientID>2</ClientID>
+    <Name>Dvir Kerner</Name>
+    <Add>
+      <Street>Givat Ze'ev</Street>
+      <HouseNO>45</HouseNO>
+      <City>Jerusalem</City>
+      <ZipCode>9646151</ZipCode>
+    </Add>
+    <Location>
+      <Street>Heler</Street>
+      <HouseNO>20</HouseNO>
+      <City>Jerusalem</City>
+      <ZipCode>6546516</ZipCode>
+    </Location>
+    <PhoneNumber>987654321</PhoneNumber>
+    <Delivery>true</Delivery>
+    <BirthDate>1997-12-17T00:00:00</BirthDate>
+  </Client>
+  <Client>
+    <ClientID>3</ClientID>
+    <Name>Yosef Cohen</Name>
+    <Add>
+      <Street>Herzl Blvd</Street>
+      <HouseNO>8</HouseNO>
+      <City>Maalot_Tarshiha</City>
+      <ZipCode>5615067</ZipCode>
+    </Add>
+    <PhoneNumber>987321654</PhoneNumber>
+    <Delivery>false</Delivery>
+    <BirthDate>1920-07-06T00:00:00</BirthDate>
+  </Client>
+  <Client>
+    <ClientID>4</ClientID>
+    <Name>Yair Miller</Name>
+    <Add>
+      <Street>Trumpldor</Street>
+      <HouseNO>41</HouseNO>
+      <City>Petah_Tikva</City>
+      <ZipCode>4940339</ZipCode>
+    </Add>
+    <PhoneNumber>039214253</PhoneNumber>
+    <Delivery>false</Delivery>
+    <BirthDate>1998-04-15T00:00:00</BirthDate>
+  </Client>
+</ArrayOfClient>

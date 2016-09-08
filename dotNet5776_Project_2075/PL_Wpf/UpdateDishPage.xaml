@@ -1,0 +1,40 @@
+﻿<Page x:Class="PL_Wpf.UpdateDishPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="UpdateDishPage">
+
+    <Grid x:Name="MainGrid" Background="white" d:DataContext="{d:DesignInstance Type=BE:Dish}">
+        <Rectangle x:Name="HeaderRectangle" Style="{StaticResource RectangleHeaderStyle}" Fill="#3F51B5"/>
+        <Label x:Name="AddDishLabel" Content="New Dish" Style="{StaticResource TitleStyle}" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment"/>
+
+        <Label x:Name="DishTypeLabel" Content="Dish Type:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Margin="60,267.971,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="NameLabel" Content="Name:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Margin="60,317.971,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="DescriptionLabel" Content="Description:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Margin="60,366.225,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="KashrutLabel" Content="Kashrut:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Margin="60,532.971,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="PriceLabel" Content="Price:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Right" Margin="0,0,506.85,142.425" VerticalAlignment="Bottom"/>
+        <Label x:Name="SizeLabel" Content="Size:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Right" Margin="0,0,315.256,143.775" VerticalAlignment="Bottom"/>
+
+        <ComboBox x:Name="DishTypeComboBox" Style="{StaticResource ComboBoxStyle}" Text="{Binding Path=DishType, Mode=TwoWay}" HorizontalAlignment="Left" VerticalAlignment="Top" Width="226.158" Margin="181.087,269.314,0,0" SelectionChanged="DishTypeComboBox_SelectionChanged"/>
+        <TextBox x:Name="NameTextBox" Text="{Binding Name, Mode=TwoWay}" Style="{StaticResource TextBoxStyle}" HorizontalAlignment="Left" Margin="143.797,0,0,362.774" TextWrapping="Wrap" Width="263.448"  VerticalAlignment="Bottom"/>
+        <TextBox x:Name="DescriptionTextBox" Text="{Binding Description, Mode=TwoWay}" Style="{StaticResource TextBoxStyle}" HorizontalAlignment="Left" Margin="65,0,0,197.388" TextWrapping="Wrap" Width="342.245" Height="111.387" VerticalAlignment="Bottom"/>
+        <ComboBox x:Name="KashrutComboBox" Style="{StaticResource ComboBoxStyle}" Text="{Binding Kosher, Mode=TwoWay}" HorizontalAlignment="Left" Margin="158.217,0,0,143.774" VerticalAlignment="Bottom" Width="195.333"/>
+
+        <TextBox x:Name="PriceTextBox" Text="{Binding Price, Mode=TwoWay}" Style="{StaticResource TextBoxStyle}" HorizontalAlignment="Right"  Margin="0,0,377.583,146.425" TextWrapping="Wrap"  VerticalAlignment="Bottom" Width="124.267"/>
+        <ComboBox x:Name="SizeComboBox" Style="{StaticResource ComboBoxStyle}" Text="{Binding Size, Mode=TwoWay}" HorizontalAlignment="Right" Margin="0,0,221.602,146.425" VerticalAlignment="Bottom" Width="84.398"/>
+
+        <Button x:Name="NextButton" FontSize="40" Content="Next" Background="#673AB7"  Style="{StaticResource ResizeStyle}"  Click="NextButton_Click" />
+        <Button x:Name="BackButton" Command="{x:Static NavigationCommands.BrowseBack}" FontSize="40" Content="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="177.233" Click="BackButton_Click" />
+        <Border Height="200" Width="200" BorderBrush="Black" BorderThickness="3" HorizontalAlignment="Right" Margin="0,274.672,286.745,245.328">
+            <Image x:Name="DishImage" Source="{Binding ImageSource, Mode=TwoWay, Converter={StaticResource ImageConverter}}" Stretch="Fill" />
+        </Border>
+        <Button x:Name="ChooseImageButton" Content="Choose Image" Style="{StaticResource CleanButtonStyle}" FontSize="18" HorizontalAlignment="Right" Margin="0,0,327.256,197.388" VerticalAlignment="Bottom" Width="118.006" Click="ChooseImageButton_Click" Height="34.94"/>
+
+    </Grid>
+</Page>

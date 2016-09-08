@@ -1,0 +1,28 @@
+﻿<Page
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"   
+      xmlns:i="http://schemas.microsoft.com/expression/2010/interactivity" xmlns:pi="http://schemas.microsoft.com/prototyping/2010/interactivity" xmlns:Properties="clr-namespace:PL_Wpf.Properties" x:Class="PL_Wpf.AddOrderPage"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="AddOrderPage">
+
+    <Grid x:Name="MainGrid" Background="White" d:DataContext="{d:DesignInstance Type=BE:Client}">
+        <Rectangle Fill="#009688"  VerticalAlignment="Top" Style="{StaticResource RectangleHeaderStyle}"/>
+
+        <!--<Button x:Name="NextButton" FontSize="40" IsEnabled="False" Content="Next" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="177.233" Click="NextButton_Click" />-->
+        <Button x:Name="BackButton" Command="{x:Static NavigationCommands.BrowseBack}" FontSize="40" Content="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="177.233" />
+
+        <Label x:Name="NewOrderLabel" Content="New Order" Style="{StaticResource TitleStyle}" Margin="50,35,0,0"/>
+        <Label x:Name="ExistongCustomerLabel" Content="Existing Customer:" HorizontalAlignment="Left" Margin="83.11,266.463,0,0" VerticalAlignment="Top" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment" FontSize="46.667"/>
+        <Label x:Name="NewCustomerLabel" Content="New Customer:" HorizontalAlignment="Left" Margin="703.98,266.463,0,0" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment" FontSize="46.667"/>
+        <TextBox x:Name="PhoneTextBox" Text="{Binding Path=PhoneNumber, Mode=OneWayToSource, UpdateSourceTrigger =Explicit}" HorizontalAlignment="Left" TextWrapping="Wrap" Width="496.89" Margin="83.11,0,0,262.647" FontSize="33.333"  FontFamily="Segoe UI Light" Height="57.5" VerticalAlignment="Bottom"/>
+        <Button x:Name="OpenClientButton" Content="Open Client Card" HorizontalAlignment="Left" Margin="703.98,0,0,262.647" VerticalAlignment="Bottom"  Style="{DynamicResource CleanButtonStyle}" d:LayoutOverrides="VerticalAlignment" Width="359.5" Height="74" FontSize="40"  Click="OpenClientButton_Click"/>
+        <Button x:Name="ContinueButton" Content="Continue" HorizontalAlignment="Left" Margin="83.11,0,0,159.943" VerticalAlignment="Bottom"  Style="{DynamicResource CleanButtonStyle}" d:LayoutOverrides="HorizontalAlignment, VerticalAlignment" Width="359.5" Height="74" FontSize="40"  Click="ContinueButton_Click" />
+        <Label x:Name="EnterPhoneNoLable" Content="Enter a phone number:" Style="{StaticResource LabelStyle}" HorizontalAlignment="Left" Margin="83.11,346.599,0,325.147" FontSize="25"/>
+
+    </Grid>
+</Page>

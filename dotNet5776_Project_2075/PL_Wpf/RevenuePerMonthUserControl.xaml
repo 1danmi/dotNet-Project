@@ -1,0 +1,33 @@
+﻿<UserControl x:Class="PL_Wpf.RevenuePerMonthUserControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:PL_Wpf"
+             mc:Ignorable="d" 
+             d:DesignHeight="380" d:DesignWidth="590">
+    <Grid Background="White">
+        <ListBox x:Name="listView">
+            <ListBox.ItemTemplate>
+                <DataTemplate>
+                    <StackPanel>
+                        <Label Content="{Binding Path=Key, Converter={StaticResource MonthNumToMonthNameConverter}}" FontSize="20"  Style="{StaticResource LabelStyle}" FontFamily="Segoe UI Semibold"  />
+                        <DataGrid ItemsSource="{Binding}" AutoGenerateColumns="False">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Header="ID" Binding="{Binding Path=OrderID}" />
+                                <DataGridTextColumn Header="Branch" Binding="{Binding Path=BranchID, Converter={StaticResource BranchIDToBranchNameConverter}}" />
+                                <DataGridTextColumn Header="Client" Binding="{Binding Path=ClientID, Converter={StaticResource ClientIDToClientNameConverter}}" />
+                                <DataGridTextColumn Header="Payment Type" Binding="{Binding Path=PaymentType}" />
+                                <DataGridTextColumn Header="Kashrut" Binding="{Binding Path=Kosher}"/>
+                                <DataGridTextColumn Header="Time" Binding="{Binding Path=Time}"/>
+                                <DataGridTextColumn Header="Notes" Binding="{Binding Path=Notes}" />
+                                <DataGridCheckBoxColumn Header="Delivery" Binding="{Binding Path=Delivery}"/>
+                                <DataGridTextColumn Header="Total price" Binding="{Binding Path=OrderID, Converter={StaticResource OrderIDToTotalPriceConverter}}"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                    </StackPanel>
+                </DataTemplate>
+            </ListBox.ItemTemplate>
+        </ListBox>
+    </Grid>
+</UserControl>

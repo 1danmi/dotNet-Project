@@ -1,0 +1,44 @@
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\BL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\BL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\BE.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\DAL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\DS.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\BE.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\DAL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\bin\Debug\DS.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\obj\Debug\BL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\פרוייקט\dotNet5776_Project_2075\BL\obj\Debug\BL.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BL.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\BE.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DAL.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\bin\Debug\DS.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BL\obj\Debug\BL.pdb

@@ -1,0 +1,63 @@
+<?xml version="1.0"?>
+<ArrayOfOrder xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Order>
+    <OrderID>1</OrderID>
+    <Time>2016-01-14T14:22:35.288502+02:00</Time>
+    <BranchID>2</BranchID>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <ClientID>1</ClientID>
+    <PaymentType>Visa</PaymentType>
+    <Delivery>true</Delivery>
+    <Notes />
+  </Order>
+  <Order>
+    <OrderID>5</OrderID>
+    <Time>2016-02-18T17:05:49.0273916+02:00</Time>
+    <BranchID>2</BranchID>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <ClientID>1</ClientID>
+    <PaymentType>MasterCard</PaymentType>
+    <Delivery>false</Delivery>
+    <Notes />
+  </Order>
+  <Order>
+    <OrderID>6</OrderID>
+    <Time>2016-01-18T17:15:39.9079772+02:00</Time>
+    <BranchID>3</BranchID>
+    <Kosher>Badats</Kosher>
+    <ClientID>3</ClientID>
+    <PaymentType>Cash</PaymentType>
+    <Delivery>true</Delivery>
+    <Notes>I'm not hungry.</Notes>
+  </Order>
+  <Order>
+    <OrderID>7</OrderID>
+    <Time>2016-01-18T17:31:41.1230024+02:00</Time>
+    <BranchID>3</BranchID>
+    <Kosher>Badats</Kosher>
+    <ClientID>1</ClientID>
+    <PaymentType>Cash</PaymentType>
+    <Delivery>false</Delivery>
+    <Notes />
+  </Order>
+  <Order>
+    <OrderID>8</OrderID>
+    <Time>2016-05-26T12:36:47.5526403+03:00</Time>
+    <BranchID>2</BranchID>
+    <Kosher>Mehadrin</Kosher>
+    <ClientID>1</ClientID>
+    <PaymentType>Cash</PaymentType>
+    <Delivery>false</Delivery>
+    <Notes />
+  </Order>
+  <Order>
+    <OrderID>9</OrderID>
+    <Time>2016-06-05T17:06:20.7071047+03:00</Time>
+    <BranchID>3</BranchID>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <ClientID>4</ClientID>
+    <PaymentType>Visa</PaymentType>
+    <Delivery>false</Delivery>
+    <Notes />
+  </Order>
+</ArrayOfOrder>

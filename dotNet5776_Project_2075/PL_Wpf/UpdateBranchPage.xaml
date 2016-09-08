@@ -1,0 +1,43 @@
+﻿<Page x:Class="PL_Wpf.UpdateBranchPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"
+      mc:Ignorable="d" 
+      d:DesignHeight="720" d:DesignWidth="1280"
+      Title="UpdateBranchPage">
+
+    <Grid x:Name="MainGrid" Background="White" d:DataContext="{d:DesignInstance Type=BE:Branch}" >
+        <Rectangle x:Name="HeaderRectangl" Style="{StaticResource RectangleHeaderStyle}" Fill="#4CAF50" />
+        <Button x:Name="NextButton"  Content="Update" Background="#8BC34A" Style="{StaticResource ResizeStyle}" Click="NextButton_Click"  />
+
+        <Label x:Name="AddBranchLabel"  Content="Update Branch" Style="{StaticResource TitleStyle}" HorizontalAlignment="Left" Margin="50,35,0,0" VerticalAlignment="Top" d:LayoutOverrides="VerticalAlignment"/>
+        <Label x:Name="NameLabel" FontSize="35" Content="Name:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="60,317,0,346.446" d:LayoutOverrides="Height"/>
+        <Label x:Name="PhoneNumberLabel" FontSize="35"  Content="Phone Number:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="60,377,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="KashrutLabel" FontSize="35" Style="{StaticResource LabelStyle}" Content="Kashrut:" HorizontalAlignment="Left" VerticalAlignment="Top"  Margin="60,437,0,0"/>
+        <Label x:Name="ManagerNameLabel" FontSize="35" Content="Manager Name:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="60,497,0,0" VerticalAlignment="Top"/>
+
+        <Label x:Name="StreetLabel" FontSize="35"  Content="Street:"  Style="{StaticResource LabelStyle}" Margin="650,317,0,346.446" HorizontalAlignment="Left" d:LayoutOverrides="Height"/>
+        <Label x:Name="HouseNumberLabel" FontSize="35"  Content="No:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="1009.927,317,0,346.446" d:LayoutOverrides="Height"/>
+        <Label x:Name="CityLabel" Content="City:" FontSize="35"  HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="650,377,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="ZipCodeLabel" FontSize="35"  Content="Zip Code:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="650,437,0,0" VerticalAlignment="Top"/>
+
+        <TextBox x:Name="NameTextBox"  Text="{Binding Name, Mode=TwoWay}" HorizontalAlignment="Left" Width="333.013" Style="{StaticResource TextBoxStyle2}" Margin="166.317,326.266,0,351.83" d:LayoutOverrides="Height" />
+        <TextBox x:Name="PhoneNumberTextBox"  Text="{Binding PhoneNumber, Mode=TwoWay}"  TextWrapping="Wrap" Style="{StaticResource TextBoxStyle2}" Margin="309.437,0,0,292.078" HorizontalAlignment="Left" Width="220.771" VerticalAlignment="Bottom"/>
+        <ComboBox x:Name="KashrutComboBox" Style="{StaticResource ComboBoxStyle}"  Text="{Binding Kosher, Mode=TwoWay}"  HorizontalAlignment="Left" Margin="191.5,0,0,231.387" VerticalAlignment="Bottom" Width="272.25"/>
+        <TextBox x:Name="ManagerNameTextBox" HorizontalAlignment="Left" Text="{Binding ManagerName, Mode=TwoWay}"  TextWrapping="Wrap" Width="238.9" Style="{StaticResource TextBoxStyle2}" Margin="307.203,0,0,171.629"  VerticalAlignment="Bottom"/>
+
+        <Grid x:Name="AddressGrid" d:DataContext="{d:DesignInstance Type=BE:Address}">
+            <TextBox x:Name="StreetTextBox"  Text="{Binding Street, Mode=TwoWay}"  HorizontalAlignment="Right"  TextWrapping="Wrap" Width="244.78" Style="{StaticResource TextBoxStyle2}" Margin="0,326.266,275.073,351.83" d:LayoutOverrides="Height" />
+            <TextBox x:Name="HouseNumberTextBox" Text="{Binding HouseNO, Mode=TwoWay}"  HorizontalAlignment="Right"  TextWrapping="Wrap" Width="50" Style="{StaticResource TextBoxStyle2}" Margin="0,326.266,152.846,351.83" d:LayoutOverrides="Height" RenderTransformOrigin="0.861,0.543" />
+            <ComboBox x:Name="CityComboBox" Style="{StaticResource ComboBoxStyle}" Text="{Binding City, Mode=TwoWay}" IsEditable="True" HorizontalAlignment="Left" VerticalAlignment="Top" Width="231.504" Margin="722.94,388.668,0,0"/>
+            <TextBox x:Name="ZipCodeTextBox" Text="{Binding Path=ZipCode,Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Top" Width="174.427" Style="{StaticResource TextBoxStyle2}" Margin="802.733,446.709,0,0" />
+        </Grid>
+        <Button x:Name="BackButton" FontSize="40" Content="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="177.233" Click="BackButton_Click" />
+
+    </Grid>
+</Page>
+
+

@@ -1,0 +1,68 @@
+<?xml version="1.0"?>
+<ArrayOfBranch xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Branch>
+    <BranchID>2</BranchID>
+    <Name>Hatayelet</Name>
+    <Add>
+      <Street>Hatayelet</Street>
+      <HouseNO>56</HouseNO>
+      <City>Tiberias</City>
+      <ZipCode>5555555</ZipCode>
+    </Add>
+    <ManagerName>Moshe Abutbul</ManagerName>
+    <PhoneNumber>0463546346</PhoneNumber>
+    <Kosher>Mehadrin</Kosher>
+  </Branch>
+  <Branch>
+    <BranchID>3</BranchID>
+    <Name>Dizingof</Name>
+    <Add>
+      <Street>Dizingof</Street>
+      <HouseNO>50</HouseNO>
+      <City>Tel_Aviv</City>
+      <ZipCode>9999999</ZipCode>
+    </Add>
+    <ManagerName>Maya Dekel</ManagerName>
+    <PhoneNumber>036541318</PhoneNumber>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+  </Branch>
+  <Branch>
+    <BranchID>4</BranchID>
+    <Name>Yachin Center</Name>
+    <Add>
+      <Street>Rabin Road</Street>
+      <HouseNO>20</HouseNO>
+      <City>Rehovot</City>
+      <ZipCode>6315341</ZipCode>
+    </Add>
+    <ManagerName>David Cohen</ManagerName>
+    <PhoneNumber>036465826</PhoneNumber>
+    <Kosher>Badats</Kosher>
+  </Branch>
+  <Branch>
+    <BranchID>5</BranchID>
+    <Name>Grand Canyon</Name>
+    <Add>
+      <Street>Golan Road</Street>
+      <HouseNO>58</HouseNO>
+      <City>Haifa</City>
+      <ZipCode>5346417</ZipCode>
+    </Add>
+    <ManagerName>Yona Yahav</ManagerName>
+    <PhoneNumber>046456341</PhoneNumber>
+    <Kosher>Badats_Mehadrin</Kosher>
+  </Branch>
+  <Branch>
+    <BranchID>1</BranchID>
+    <Name>Jct</Name>
+    <Add>
+      <Street>Hava'ad Haleumi</Street>
+      <HouseNO>21</HouseNO>
+      <City>Jerusalem</City>
+      <ZipCode>2222222</ZipCode>
+    </Add>
+    <ManagerName>Prof. Sukenik</ManagerName>
+    <PhoneNumber>999994768</PhoneNumber>
+    <Kosher>Badats</Kosher>
+  </Branch>
+</ArrayOfBranch>

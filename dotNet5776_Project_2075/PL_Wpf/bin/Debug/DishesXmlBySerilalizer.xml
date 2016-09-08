@@ -1,0 +1,313 @@
+<?xml version="1.0"?>
+<ArrayOfDish xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Dish>
+    <DishID>1</DishID>
+    <Name>Orange Juice</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>5.5</Price>
+    <Kosher>Rabanut</Kosher>
+    <DishType>Beverages</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Beverage1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>2</DishID>
+    <Name>Coca Cola</Name>
+    <Description>0.5 litter bottle</Description>
+    <Size>M</Size>
+    <Price>6.5</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Beverages</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Beverage2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>3</DishID>
+    <Name>Mineral Water</Name>
+    <Description>0.5 liter Bottle</Description>
+    <Size>S</Size>
+    <Price>4</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Beverages</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Beverage3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>4</DishID>
+    <Name>Fuze Tea</Name>
+    <Description>0.5 liter bottle</Description>
+    <Size>M</Size>
+    <Price>7.5</Price>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <DishType>Beverages</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Beverage4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>5</DishID>
+    <Name>Flavoured Water</Name>
+    <Description>1.5 liter bottle</Description>
+    <Size>XL</Size>
+    <Price>9.5</Price>
+    <Kosher>Mehadrin</Kosher>
+    <DishType>Beverages</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Beverage5.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>6</DishID>
+    <Name>Lettuce Salad</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>20</Price>
+    <Kosher>Rabanut</Kosher>
+    <DishType>Salads</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Salad1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>7</DishID>
+    <Name>Chicken Salad</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>45</Price>
+    <Kosher>Mehadrin</Kosher>
+    <DishType>Salads</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Salad2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>8</DishID>
+    <Name>Eggplant salad</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>20</Price>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <DishType>Salads</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Salad3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>9</DishID>
+    <Name>Fruit Salad</Name>
+    <Description />
+    <Size>S</Size>
+    <Price>30</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Salads</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Salad4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>10</DishID>
+    <Name>Mashrum Salad</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>32</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Salads</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Salad5.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>11</DishID>
+    <Name>Carrot Soup</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>35</Price>
+    <Kosher>Mehadrin</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>12</DishID>
+    <Name>Vegetables Soup</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>45</Price>
+    <Kosher>Rabanut</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>13</DishID>
+    <Name>Mashrums Soup</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>45</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>14</DishID>
+    <Name>Tomato Soup</Name>
+    <Description />
+    <Size>S</Size>
+    <Price>40</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>15</DishID>
+    <Name>Chicken Soup</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>50</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup5.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>16</DishID>
+    <Name>Beef Soup</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>55</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Soups</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Soup6.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>17</DishID>
+    <Name>Salmon Fish</Name>
+    <Description />
+    <Size>XL</Size>
+    <Price>80</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Fish</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Fish1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>18</DishID>
+    <Name>Mullet Fish</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>75</Price>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <DishType>Fish</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Fish2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>19</DishID>
+    <Name>Fried Sole Fish</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>55</Price>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <DishType>Fish</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Fish3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>20</DishID>
+    <Name>Hraime</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>85</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Fish</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Fish4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>21</DishID>
+    <Name>Sea Bream Fish</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>65</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Fish</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Fish5.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>22</DishID>
+    <Name>Steak Entrecôte</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>110</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Meat</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Meat1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>23</DishID>
+    <Name>Shawarma</Name>
+    <Description />
+    <Size>XL</Size>
+    <Price>45</Price>
+    <Kosher>Rabanut_Mehadrin</Kosher>
+    <DishType>Meat</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Meat2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>24</DishID>
+    <Name>Chicken Wings</Name>
+    <Description />
+    <Size>XL</Size>
+    <Price>70</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Meat</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Meat3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>25</DishID>
+    <Name>Lamb Chops</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>135</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Meat</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Meat4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>26</DishID>
+    <Name>Schnitzels</Name>
+    <Description />
+    <Size>L</Size>
+    <Price>45</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Meat</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Meat5.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>27</DishID>
+    <Name>Soufflé</Name>
+    <Description />
+    <Size>S</Size>
+    <Price>35</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Desserts</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Dessert1.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>28</DishID>
+    <Name>Donut</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>25</Price>
+    <Kosher>Mehadrin</Kosher>
+    <DishType>Desserts</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Dessert2.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>29</DishID>
+    <Name>Ice Cream and Cake</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>45</Price>
+    <Kosher>Badats</Kosher>
+    <DishType>Desserts</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Dessert3.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>30</DishID>
+    <Name>Triple Cream</Name>
+    <Description />
+    <Size>S</Size>
+    <Price>25</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Desserts</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Dessert4.jpg</ImageSource>
+  </Dish>
+  <Dish>
+    <DishID>31</DishID>
+    <Name>6 Layers Cake</Name>
+    <Description />
+    <Size>M</Size>
+    <Price>60</Price>
+    <Kosher>Badats_Mehadrin</Kosher>
+    <DishType>Desserts</DishType>
+    <ImageSource>D:\OneDrive\Project\dotNet5776_Project_2075\DishImages\Dessert5.jpg</ImageSource>
+  </Dish>
+</ArrayOfDish>

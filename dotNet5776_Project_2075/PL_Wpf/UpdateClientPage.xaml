@@ -1,0 +1,62 @@
+﻿<Page x:Class="PL_Wpf.UpdateClientPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:PL_Wpf"
+      xmlns:BE="clr-namespace:BE;assembly=BE"
+      mc:Ignorable="d" 
+      d:DesignHeight="300" d:DesignWidth="300"
+      Title="UpdateClientPage" Width="1280" Height="720" Foreground="White" >
+
+    <Grid x:Name="MainGrid" Background="White" d:DataContext="{d:DesignInstance Type=BE:Client}" >
+        <Grid x:Name="DeliveryAddressGrid" Width="515.165" IsEnabled="{Binding ElementName=DifferntAddressCheckBox, Path=IsChecked}" HorizontalAlignment="Right" Margin="0,264.997,64.835,225.469" d:DataContext="{d:DesignInstance Type=BE:Address}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+                <RowDefinition Height="1*"/>
+            </Grid.RowDefinitions>
+            <Grid.Style>
+                <Style>
+                    <Style.Triggers>
+
+                    </Style.Triggers>
+                </Style>
+            </Grid.Style>
+
+            <Label x:Name="DeliveryAddressLabel" Grid.Row="0"  FontSize="30" Content="Delivery Address:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}"  FontFamily="Segoe UI Semibold" Margin="10,-1.118,0,0"/>
+            <Label x:Name="DeliveryStreetLabel" Grid.Row="1"  Content="Street:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="10,7.249,0,0" />
+            <Label x:Name="DeliveryHouseNoLabel" Grid.Row="1"  Content="No:" HorizontalAlignment="Right" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="0,7.249,117.221,0" />
+            <Label x:Name="DeliveryCityLabel" Grid.Row="2"  Content="City:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="10,4.13,0,0"  />
+            <Label x:Name="DeliveryZipCode" Grid.Row="3"  Content="Zip Code:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="10,0.001,0,10" />
+            <TextBox x:Name="DeliveryStretTextBox" Text="{Binding Street, Mode=TwoWay}" Grid.Row="1"  HorizontalAlignment="Right" TextWrapping="Wrap"  VerticalAlignment="Top" Width="259.817" Style="{StaticResource TextBoxStyle}" Margin="0,11.249,169.525,0" LostFocus="Word_LostFocus" />
+            <TextBox x:Name="DeliveryHouseNoTextBox" Text="{Binding HouseNO, Mode=TwoWay}" Grid.Row="1"  HorizontalAlignment="Right"  TextWrapping="Wrap"  VerticalAlignment="Top" Width="50" Style="{StaticResource TextBoxStyle}" Margin="0,11.249,61.401,0" LostFocus="HouseNo_LostFocus" />
+            <ComboBox x:Name="DeliveryCityComboBox" Text="{Binding City, Mode=TwoWay}" Style="{StaticResource ComboBoxStyle}"  Grid.Row="2" IsEditable="True"  VerticalAlignment="Top"  Margin="69.957,6.13,206.206,0" />
+            <TextBox x:Name="DeliveryZipCodeTextBox" Text="{Binding ZipCode, Mode=TwoWay}" Grid.Row="3" TextWrapping="Wrap" Style="{StaticResource TextBoxStyle}" Margin="126.95,6.001,212.715,16.129" d:LayoutOverrides="Height" LostFocus="ZipCode_LostFocus" />
+        </Grid>
+        <Rectangle Fill="#8BC34A"  Style="{StaticResource RectangleHeaderStyle}"   VerticalAlignment="Top"/>
+        <Label x:Name="NewClientLabel" Content="Update Client" Style="{StaticResource TitleStyle}" Margin="50,35,0,0"/>
+        <Label x:Name="NameLabel" Content="Name:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="60,257.999,0,0"/>
+        <Label x:Name="StreetLabel" Content="Street:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="60,306.253,0,0"/>
+        <Label x:Name="HouseNumberLabel" Content="No:" HorizontalAlignment="Left" VerticalAlignment="Top" Style="{StaticResource LabelStyle}" Margin="394.46,306.253,0,0"/>
+        <Label x:Name="CityLabel" Content="City:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="60,354.506,0,322.24" d:LayoutOverrides="Height"/>
+        <Label x:Name="ZipCodeLabel" Content="Zip Code:" HorizontalAlignment="Left" Style="{StaticResource LabelStyle}" Margin="60,0,0,275.721" VerticalAlignment="Bottom"/>
+        <Label x:Name="PhoneNumberLabel" Content="Phone Number:" HorizontalAlignment="Left" VerticalAlignment="Bottom" Style="{StaticResource LabelStyle}" Margin="60,0,0,232.467"/>
+        <Label x:Name="BirthDateLabel" Content="Birth Date:" HorizontalAlignment="Left" VerticalAlignment="Bottom" Style="{StaticResource LabelStyle}" Margin="60,0,0,179.214"/>
+        <Button x:Name="NextButton" Style="{StaticResource ResizeStyle}" Background="#CDDC39"  Content="Update"   Width="220" Click="NextButton_Click"/>
+        <Button x:Name="BackButton" Command="{x:Static NavigationCommands.BrowseBack}" FontSize="40" Content="Back" HorizontalAlignment="Right" VerticalAlignment="Bottom" Style="{StaticResource CleanButtonStyle}" Margin="0,0,50,50" Height="62.46" Width="180" />
+
+
+        <TextBox x:Name="NameTextBox"  Text="{Binding Path=Name, Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Top" Width="243.013" Style="{StaticResource TextBoxStyle}" Margin="146.447,261.999,0,0" LostFocus="Word_LostFocus"/>
+        <TextBox x:Name="PhoneNumberTextBox" Text="{Binding PhoneNumber, Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Bottom" Width="220.771" Style="{StaticResource TextBoxStyle}" Margin="248.123,0,0,232.467" LostFocus="Phone_LostFocus"/>
+        <DatePicker x:Name="BirthDatePicker"  HorizontalAlignment="Left" SelectedDate="{Binding BirthDate, Mode=TwoWay}" FontSize="20" Margin="185.526,0,0,185.074" VerticalAlignment="Bottom" Height="30"/>
+        <CheckBox  x:Name="DifferntAddressCheckBox"  FontSize="25" Content="My delivery address is different than my billing address" Margin="60,0,588.417,117.801" VerticalAlignment="Bottom" Height="32.624" IsChecked="{Binding Path=Delivery}"/>
+        <Grid x:Name="AddressGrid" d:DataContext="{d:DesignInstance Type=BE:Address}">
+            <TextBox x:Name="StreetTextBox" Text="{Binding Path=Street, Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Top" Width="244.78" Style="{StaticResource TextBoxStyle}" Margin="144.68,314.172,0,0" LostFocus="Word_LostFocus"/>
+            <TextBox x:Name="HouseNumberTextBox" Text="{Binding Path=HouseNO, Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Top" Width="50" Style="{StaticResource TextBoxStyle}" Margin="447.727,314.172,0,0" LostFocus="HouseNo_LostFocus"/>
+            <ComboBox x:Name="CityComboBox" Text="{Binding Path=City, Mode=TwoWay}" IsEditable="True" HorizontalAlignment="Left" Style="{StaticResource ComboBoxStyle}"   VerticalAlignment="Bottom" Width="223.254" Margin="123.123,0,0,322.241"/>
+            <TextBox x:Name="ZipCodeTextBox" Text="{Binding Path=ZipCode, Mode=TwoWay}" HorizontalAlignment="Left"  TextWrapping="Wrap"  VerticalAlignment="Bottom" Width="174.427" Style="{StaticResource TextBoxStyle}" Margin="171.95,0,0,275.72" LostFocus="ZipCode_LostFocus"/>
+        </Grid>
+    </Grid>
+</Page>

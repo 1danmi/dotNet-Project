@@ -1,0 +1,45 @@
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.baml
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+D:\OneDrive\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.baml
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+D:\OneDrive\מכון לב\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.baml
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
