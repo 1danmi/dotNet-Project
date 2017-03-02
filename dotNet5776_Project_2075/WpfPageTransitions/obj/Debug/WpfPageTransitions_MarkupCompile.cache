@@ -4,7 +4,7 @@
 library
 C#
 .cs
-C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\
 WpfPageTransitions
 none
 false
@@ -13,7 +13,7 @@ DEBUG;TRACE
 2338570951
 
 10-778189360
-12-1401562060
+12-354110402
 PageTransition.xaml;WaitWindow.xaml;
 
 False

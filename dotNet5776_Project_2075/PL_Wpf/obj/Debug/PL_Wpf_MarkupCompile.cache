@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\PL_Wpf\obj\Debug\
 PL_Wpf
 none
 false
 DEBUG;TRACE
-C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\PL_Wpf\App.xaml
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\PL_Wpf\App.xaml
 29482790360
 
 341391828036
-25-946997091
+25-1992991258
 AddBranchPage.xaml;AddDishesToOrderPage.xaml;AddDishPage.xaml;AddOrderPage.xaml;AddOrderPage2.xaml;BranchRevenueUserControl.xaml;CityRevenueUserControl.xaml;CreditCardUserControl.xaml;DishListPage.xaml;DishRevenueUserControl.xaml;DishUserControl.xaml;GetOrderIDWindow.xaml;InfoPage.xaml;MainPage.xaml;MainWindow.xaml;ManagementUserControl.xaml;MenuPage.xaml;MenuWindow.xaml;NewClientPage.xaml;OrdersUserControl.xaml;QueriesPage.xaml;ReportsPage.xaml;RevenuePerMonthUserControl.xaml;UpdateBranchPage.xaml;UpdateClientPage.xaml;UpdateDeletePage.xaml;UpdateDishPage.xaml;UpdateOrderPage.xaml;WaitWindow.xaml;
 
 False

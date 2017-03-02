@@ -43,3 +43,18 @@ C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונו�
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\bin\Debug\WpfPageTransitions.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csprojResolveAssemblyReference.cache
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.g.cs
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.g.cs
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.cache
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions_MarkupCompile.lref
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\PageTransition.baml
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WaitWindow.baml
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.g.resources
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.Properties.Resources.resources
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.csproj.GenerateResource.Cache
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\WpfPageTransitions\obj\Debug\WpfPageTransitions.pdb

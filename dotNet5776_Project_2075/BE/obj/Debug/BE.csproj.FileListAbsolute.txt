@@ -18,3 +18,8 @@ C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונו�
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BE\obj\Debug\BE.dll
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\BE\obj\Debug\BE.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\BE\bin\Debug\BE.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\BE\bin\Debug\BE.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\BE\obj\Debug\BE.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\BE\obj\Debug\BE.pdb

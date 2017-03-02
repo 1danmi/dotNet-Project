@@ -26,3 +26,10 @@ C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונו�
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\DS\obj\Debug\DS.dll
 C:\Users\danie\Google Drive\JCT\שנה ב\סמסטר א\מערכות חלונות\Project\dotNet5776_Project_2075\DS\obj\Debug\DS.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\bin\Debug\DS.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\bin\Debug\DS.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\bin\Debug\BE.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\bin\Debug\BE.pdb
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\obj\Debug\DS.dll
+C:\DotNetProject\dotNet-Project\dotNet5776_Project_2075\DS\obj\Debug\DS.pdb
