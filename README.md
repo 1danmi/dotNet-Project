@@ -3,7 +3,7 @@ Mini-Project in .Net and WPF.
 
 Screenshots:
 
-![alt tag](https://s19.postimg.org/cx7t8mcwz/image.png)
+![alt tag](https://s19.postimg.org/6tuu2gc0z/image.png)
 
 ![alt tag](https://s22.postimg.org/o7vf9l0y9/image.png)
 
@@ -20,4 +20,4 @@ Screenshots:
 ![alt tag](https://s22.postimg.org/gzjskao7l/image.png)
 
 
-<!--https://postimg.org/gallery/13oyt8h7y/862b6d46/-->
+<!--https://postimg.org/gallery/2gjvibdkw/b41626ac/-->
