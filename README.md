@@ -3,9 +3,9 @@ Mini-Project in .Net and WPF.
 
 Screenshots:
 
-![alt tag](https://s19.postimg.org/6tuu2gc0z/image.png) ![alt tag](https://s19.postimg.org/l1kir3opv/image.png)
+![alt tag](https://s19.postimg.org/6tuu2gc0z/image.png) 
 
-
+![alt tag](https://s19.postimg.org/l1kir3opv/image.png)
 
 ![alt tag](https://s19.postimg.org/qe9d58cmb/image.png)
 
