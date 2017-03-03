@@ -20,4 +20,4 @@ Screenshots:
 ![alt tag](https://s22.postimg.org/gzjskao7l/image.png)
 
 
-//https://postimg.org/gallery/13oyt8h7y/862b6d46/
+<!--https://postimg.org/gallery/13oyt8h7y/862b6d46/-->
